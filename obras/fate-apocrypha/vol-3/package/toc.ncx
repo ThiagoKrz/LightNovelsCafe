@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt-BR">
+  <head>
+    <meta name="dtb:uid" content="586a4877-d7f4-4b9f-8944-5f1390bd2752"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.6.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Fate/Apocrypha Vol. 3 "O Triunfo do Santo"</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>Sumário</text>
+      </navLabel>
+      <content src="text/part0023.html#LTSU0-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Prólogo</text>
+      </navLabel>
+      <content src="text/part0025.html#NQU20-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Capítulo 1</text>
+      </navLabel>
+      <content src="text/part0027.html#PNV60-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Capítulo 2</text>
+      </navLabel>
+      <content src="text/part0031.html#TI1E0-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Capítulo 3</text>
+      </navLabel>
+      <content src="text/part0034.html#10DJ40-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Capítulo 4</text>
+      </navLabel>
+      <content src="text/part0046.html#1BRPS0-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Comentário</text>
+      </navLabel>
+      <content src="text/part0053.html#1IHDQ0-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Colofão</text>
+      </navLabel>
+      <content src="text/part0054.html#1JFUC0-629b36f35aef4670b1a9f66ba17d70f4"/>
+    </navPoint>
+  </navMap>
+</ncx>

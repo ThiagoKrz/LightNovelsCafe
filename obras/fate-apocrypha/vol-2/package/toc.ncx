@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt-BR">
+  <head>
+    <meta name="dtb:uid" content="2ee86ad5-1072-40be-8dd0-62caeca22762"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.6.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Fate/Apocrypha Vol. 2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>Sumário</text>
+      </navLabel>
+      <content src="text/part0021.html#K0RQ0-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Prólogo</text>
+      </navLabel>
+      <content src="text/part0023.html#LTSU0-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Capítulo 1</text>
+      </navLabel>
+      <content src="text/part0025.html#NQU20-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Capítulo 2</text>
+      </navLabel>
+      <content src="text/part0029.html#RL0A0-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Capítulo 3</text>
+      </navLabel>
+      <content src="text/part0035.html#11C3M0-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Posfácio</text>
+      </navLabel>
+      <content src="text/part0040.html#164MG0-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Colofão</text>
+      </navLabel>
+      <content src="text/part0041.html#173720-7bf27ac18d854638ac78c4a8598239f4"/>
+    </navPoint>
+  </navMap>
+</ncx>

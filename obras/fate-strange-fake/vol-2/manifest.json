@@ -1,0 +1,219 @@
+{
+  "pathBase": "volume",
+  "obra": "fate-strange-fake",
+  "volume": 2,
+  "title": "Fate/Strange Fake Vol. 2",
+  "author": "Ryogo Narita",
+  "language": "en",
+  "publisher": "TYPE-MOON",
+  "releaseDate": "",
+  "pageProgressionDirection": "ltr",
+  "sourceEpub": null,
+  "sourceEpubOriginal": "novels_raw\\Fate Strange Fake - Vol.2.pdf",
+  "packageRoot": "package",
+  "buildRoot": "build",
+  "translation": {
+    "originalHtmlRoot": "translation/original-html",
+    "translatedHtmlRoot": "translation/translated-html",
+    "plainTextRoot": "translation/plaintext"
+  },
+  "assets": {
+    "imageCount": 21,
+    "cssFiles": [
+      "package/page_styles.css",
+      "package/stylesheet.css"
+    ],
+    "titlepageVisualPages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "fixedVisualInsertions": {},
+    "illustrationPages": [
+      7,
+      12,
+      28,
+      43,
+      45,
+      68,
+      77,
+      91,
+      103,
+      105,
+      120,
+      123,
+      137,
+      147,
+      150,
+      151
+    ],
+    "illustrationFiles": [
+      "package/images/illust-002.png",
+      "package/images/illust-003.png",
+      "package/images/illust-004.png",
+      "package/images/illust-005.png",
+      "package/images/illust-007.png",
+      "package/images/illust-012.png",
+      "package/images/illust-028.png",
+      "package/images/illust-043.png",
+      "package/images/illust-045.png",
+      "package/images/illust-068.png",
+      "package/images/illust-077.png",
+      "package/images/illust-091.png",
+      "package/images/illust-103.png",
+      "package/images/illust-105.png",
+      "package/images/illust-120.png",
+      "package/images/illust-123.png",
+      "package/images/illust-137.png",
+      "package/images/illust-147.png",
+      "package/images/illust-150.png",
+      "package/images/illust-151.png"
+    ]
+  },
+  "spine": [
+    {
+      "order": 1,
+      "idref": "titlepage",
+      "href": "titlepage.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/titlepage.xhtml",
+      "translationOriginalPath": "translation/original-html/001-titlepage.xhtml",
+      "translationWorkingPath": "translation/translated-html/001-titlepage.xhtml",
+      "plainTextPath": "translation/plaintext/001-titlepage.txt",
+      "plainTextLength": 144
+    },
+    {
+      "idref": "front-0002",
+      "href": "front-0002.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0002.xhtml",
+      "translationOriginalPath": "translation/original-html/front-0002.xhtml",
+      "translationWorkingPath": "translation/translated-html/front-0002.xhtml",
+      "plainTextPath": "translation/plaintext/front-0002.txt",
+      "plainTextLength": 41,
+      "order": 2
+    },
+    {
+      "idref": "front-0003",
+      "href": "front-0003.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0003.xhtml",
+      "translationOriginalPath": "translation/original-html/front-0003.xhtml",
+      "translationWorkingPath": "translation/translated-html/front-0003.xhtml",
+      "plainTextPath": "translation/plaintext/front-0003.txt",
+      "plainTextLength": 41,
+      "order": 3
+    },
+    {
+      "idref": "front-0004",
+      "href": "front-0004.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0004.xhtml",
+      "translationOriginalPath": "translation/original-html/front-0004.xhtml",
+      "translationWorkingPath": "translation/translated-html/front-0004.xhtml",
+      "plainTextPath": "translation/plaintext/front-0004.txt",
+      "plainTextLength": 41,
+      "order": 4
+    },
+    {
+      "idref": "front-0005",
+      "href": "front-0005.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0005.xhtml",
+      "translationOriginalPath": "translation/original-html/front-0005.xhtml",
+      "translationWorkingPath": "translation/translated-html/front-0005.xhtml",
+      "plainTextPath": "translation/plaintext/front-0005.txt",
+      "plainTextLength": 41,
+      "order": 5
+    },
+    {
+      "order": 6,
+      "idref": "part0000",
+      "href": "text/part0000.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0000.html",
+      "translationOriginalPath": "translation/original-html/002-part0000.html",
+      "translationWorkingPath": "translation/translated-html/002-part0000.html",
+      "plainTextPath": "translation/plaintext/002-part0000.txt",
+      "plainTextLength": 295
+    },
+    {
+      "order": 7,
+      "idref": "part0001",
+      "href": "text/part0001.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0001.html",
+      "translationOriginalPath": "translation/original-html/003-part0001.html",
+      "translationWorkingPath": "translation/translated-html/003-part0001.html",
+      "plainTextPath": "translation/plaintext/003-part0001.txt",
+      "plainTextLength": 8186
+    },
+    {
+      "order": 8,
+      "idref": "part0002",
+      "href": "text/part0002.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0002.html",
+      "translationOriginalPath": "translation/original-html/004-part0002.html",
+      "translationWorkingPath": "translation/translated-html/004-part0002.html",
+      "plainTextPath": "translation/plaintext/004-part0002.txt",
+      "plainTextLength": 63143
+    },
+    {
+      "order": 9,
+      "idref": "part0003",
+      "href": "text/part0003.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0003.html",
+      "translationOriginalPath": "translation/original-html/005-part0003.html",
+      "translationWorkingPath": "translation/translated-html/005-part0003.html",
+      "plainTextPath": "translation/plaintext/005-part0003.txt",
+      "plainTextLength": 97517
+    },
+    {
+      "order": 10,
+      "idref": "part0004",
+      "href": "text/part0004.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0004.html",
+      "translationOriginalPath": "translation/original-html/006-part0004.html",
+      "translationWorkingPath": "translation/translated-html/006-part0004.html",
+      "plainTextPath": "translation/plaintext/006-part0004.txt",
+      "plainTextLength": 26776
+    },
+    {
+      "order": 11,
+      "idref": "part0005",
+      "href": "text/part0005.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0005.html",
+      "translationOriginalPath": "translation/original-html/007-part0005.html",
+      "translationWorkingPath": "translation/translated-html/007-part0005.html",
+      "plainTextPath": "translation/plaintext/007-part0005.txt",
+      "plainTextLength": 35629
+    },
+    {
+      "order": 12,
+      "idref": "part0006",
+      "href": "text/part0006.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0006.html",
+      "translationOriginalPath": "translation/original-html/008-part0006.html",
+      "translationWorkingPath": "translation/translated-html/008-part0006.html",
+      "plainTextPath": "translation/plaintext/008-part0006.txt",
+      "plainTextLength": 46172
+    },
+    {
+      "order": 13,
+      "idref": "part0007",
+      "href": "text/part0007.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0007.html",
+      "translationOriginalPath": "translation/original-html/009-part0007.html",
+      "translationWorkingPath": "translation/translated-html/009-part0007.html",
+      "plainTextPath": "translation/plaintext/009-part0007.txt",
+      "plainTextLength": 8172
+    }
+  ]
+}

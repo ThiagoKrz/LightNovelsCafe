@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <opf:metadata>
+    <dc:language>pt-BR</dc:language>
+    <dc:title>Fate/Strange Fake Vol. 2</dc:title>
+    <dc:creator opf:role="aut">Ryogo Narita</dc:creator>
+    <dc:publisher>Dengeki Bunko</dc:publisher>
+    <dc:date>2015-05-09</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">22564f22-719b-4bed-8468-4e14aa8e417e</dc:identifier>
+    <opf:meta name="cover" content="cover" />
+    <opf:meta name="primary-writing-mode" content="horizontal-lr" />
+  </opf:metadata>
+  <opf:manifest>
+    <opf:item id="cover" href="cover.jpeg" media-type="image/jpeg" />
+    <opf:item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="part0000" href="text/part0000.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0001" href="text/part0001.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0002" href="text/part0002.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0003" href="text/part0003.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0004" href="text/part0004.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0005" href="text/part0005.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0006" href="text/part0006.html" media-type="application/xhtml+xml" />
+    <opf:item id="part0007" href="text/part0007.html" media-type="application/xhtml+xml" />
+    <opf:item id="page_css" href="page_styles.css" media-type="text/css" />
+    <opf:item id="css" href="stylesheet.css" media-type="text/css" />
+    <opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <opf:item id="front-0002" href="front-0002.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="front-0003" href="front-0003.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="front-0004" href="front-0004.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="front-0005" href="front-0005.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="illust-002" href="images/illust-002.png" media-type="image/png" />
+    <opf:item id="illust-003" href="images/illust-003.png" media-type="image/png" />
+    <opf:item id="illust-004" href="images/illust-004.png" media-type="image/png" />
+    <opf:item id="illust-005" href="images/illust-005.png" media-type="image/png" />
+    <opf:item id="illust-007" href="images/illust-007.png" media-type="image/png" />
+    <opf:item id="illust-012" href="images/illust-012.png" media-type="image/png" />
+    <opf:item id="illust-028" href="images/illust-028.png" media-type="image/png" />
+    <opf:item id="illust-043" href="images/illust-043.png" media-type="image/png" />
+    <opf:item id="illust-045" href="images/illust-045.png" media-type="image/png" />
+    <opf:item id="illust-068" href="images/illust-068.png" media-type="image/png" />
+    <opf:item id="illust-077" href="images/illust-077.png" media-type="image/png" />
+    <opf:item id="illust-091" href="images/illust-091.png" media-type="image/png" />
+    <opf:item id="illust-103" href="images/illust-103.png" media-type="image/png" />
+    <opf:item id="illust-105" href="images/illust-105.png" media-type="image/png" />
+    <opf:item id="illust-120" href="images/illust-120.png" media-type="image/png" />
+    <opf:item id="illust-123" href="images/illust-123.png" media-type="image/png" />
+    <opf:item id="illust-137" href="images/illust-137.png" media-type="image/png" />
+    <opf:item id="illust-147" href="images/illust-147.png" media-type="image/png" />
+    <opf:item id="illust-150" href="images/illust-150.png" media-type="image/png" />
+    <opf:item id="illust-151" href="images/illust-151.png" media-type="image/png" />
+  </opf:manifest>
+  <opf:spine toc="ncx" page-progression-direction="ltr">
+    <opf:itemref idref="titlepage" />
+    <opf:itemref idref="front-0002" />
+    <opf:itemref idref="front-0003" />
+    <opf:itemref idref="front-0004" />
+    <opf:itemref idref="front-0005" />
+    <opf:itemref idref="part0000" />
+    <opf:itemref idref="part0001" />
+    <opf:itemref idref="part0002" />
+    <opf:itemref idref="part0003" />
+    <opf:itemref idref="part0004" />
+    <opf:itemref idref="part0005" />
+    <opf:itemref idref="part0006" />
+    <opf:itemref idref="part0007" />
+  </opf:spine>
+  <opf:guide>
+    <opf:reference type="text" href="text/part0000.html" title="Sumário" />
+    <opf:reference type="toc" href="text/part0000.html" title="Sumário" />
+    <opf:reference type="cover" href="titlepage.xhtml" title="Capa" />
+  </opf:guide>
+</opf:package>

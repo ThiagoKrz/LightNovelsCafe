@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">50d0ee01-9c55-42cb-aa1d-68f5903bcf06</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>Lord El-Melloi II's Case Files Vol. 5 - Mystic Eyes Collection Train (Lower) Translated</dc:title>
+    <meta property="dcterms:modified">2023-07-27T09:39:23Z</meta>
+  </metadata>
+  <manifest>
+    <item href="nav.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.xhtml" id="main" media-type="application/xhtml+xml"/>
+    <item href="images/image10.jpg" id="image10.jpg" media-type="image/jpeg"/>
+    <item href="images/image9.jpg" id="image9.jpg" media-type="image/jpeg"/>
+    <item href="images/image17.jpg" id="image17.jpg" media-type="image/jpeg"/>
+    <item href="images/image4.jpg" id="image4.jpg" media-type="image/jpeg"/>
+    <item href="images/image15.jpg" id="image15.jpg" media-type="image/jpeg"/>
+    <item href="images/image6.jpg" id="image6.jpg" media-type="image/jpeg"/>
+    <item href="images/image2.jpg" id="image2.jpg" media-type="image/jpeg"/>
+    <item href="images/image12.jpg" id="image12.jpg" media-type="image/jpeg"/>
+    <item href="images/image11.jpg" id="image11.jpg" media-type="image/jpeg"/>
+    <item href="images/image3.jpg" id="image3.jpg" media-type="image/jpeg"/>
+    <item href="images/image14.jpg" id="image14.jpg" media-type="image/jpeg"/>
+    <item href="images/image7.jpg" id="image7.jpg" media-type="image/jpeg"/>
+    <item href="images/image5.jpg" id="image5.jpg" media-type="image/jpeg"/>
+    <item href="images/image16.jpg" id="image16.jpg" media-type="image/jpeg"/>
+    <item href="images/image13.jpg" id="image13.jpg" media-type="image/jpeg"/>
+    <item href="images/image8.jpg" id="image8.jpg" media-type="image/jpeg"/>
+    <item href="images/image1.jpg" id="image1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine>
+    <itemref idref="main"/>
+  </spine>
+</package>

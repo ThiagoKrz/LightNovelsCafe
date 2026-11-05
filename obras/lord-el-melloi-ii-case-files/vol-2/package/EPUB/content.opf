@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" xml:lang="pt-BR" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:uuid:6fcc8d2b-8db0-4b90-966d-2285b6514803</dc:identifier>
+    <dc:title id="epub-title-1">Lord El-Melloi II’s Case Files ~ (02) case. Torres Gêmeas de Izelma (Superior)</dc:title>
+    <dc:date id="epub-date">2015-08-14</dc:date>
+    <dc:language>pt-BR</dc:language>
+    <dc:creator id="epub-creator-1">Makoto Sanda (三田 誠)</dc:creator>
+    <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+    <dc:creator id="epub-creator-2">Mineji Sakamoto (坂本みねぢ)</dc:creator>
+    <meta refines="#epub-creator-2" property="role" scheme="marc:relators">ill</meta>
+    <dc:creator id="epub-creator-3">TYPE-MOON BOOKS</dc:creator>
+    <meta refines="#epub-creator-3" property="role" scheme="marc:relators">pbl</meta>
+    <dc:creator id="epub-creator-4">Kadokawa Shoten (角川書店)</dc:creator>
+    <meta refines="#epub-creator-4" property="role" scheme="marc:relators">pbl</meta>
+    <dc:contributor id="epub-contributor-1">TwilightsCall of Beast’s Lair</dc:contributor>
+    <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">trl</meta>
+    <dc:contributor id="epub-contributor-2">Ardor of Beast’s Lair</dc:contributor>
+    <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">com</meta>
+    <dc:rights>Apenas para fins de fã. Obra original por Makoto Sanda e TYPE-MOON.</dc:rights>
+    <meta property="dcterms:modified">2026-02-02T01:43:14Z</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css" />
+    <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg" />
+    <item id="title_page_xhtml" href="text/title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="text/ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="text/ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="text/ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="text/ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="text/ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="text/ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="text/ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="text/ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="text/ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="text/ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="text/ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="text/ch012.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch013_xhtml" href="text/ch013.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch014_xhtml" href="text/ch014.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch015_xhtml" href="text/ch015.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch016_xhtml" href="text/ch016.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch017_xhtml" href="text/ch017.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch018_xhtml" href="text/ch018.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch019_xhtml" href="text/ch019.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch020_xhtml" href="text/ch020.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch021_xhtml" href="text/ch021.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch022_xhtml" href="text/ch022.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch023_xhtml" href="text/ch023.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch024_xhtml" href="text/ch024.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch025_xhtml" href="text/ch025.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch026_xhtml" href="text/ch026.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch027_xhtml" href="text/ch027.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch028_xhtml" href="text/ch028.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch029_xhtml" href="text/ch029.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch030_xhtml" href="text/ch030.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch031_xhtml" href="text/ch031.xhtml" media-type="application/xhtml+xml" />
+    <item properties="cover-image" id="img-cover_jpg" href="media/img-cover.jpg" media-type="image/jpeg" />
+    <item id="file15_jpg" href="media/file15.jpg" media-type="image/jpeg" />
+    <item id="file14_jpg" href="media/file14.jpg" media-type="image/jpeg" />
+    <item id="file13_jpg" href="media/file13.jpg" media-type="image/jpeg" />
+    <item id="file12_jpg" href="media/file12.jpg" media-type="image/jpeg" />
+    <item id="file11_jpg" href="media/file11.jpg" media-type="image/jpeg" />
+    <item id="file10_jpg" href="media/file10.jpg" media-type="image/jpeg" />
+    <item id="file9_jpg" href="media/file9.jpg" media-type="image/jpeg" />
+    <item id="file8_jpg" href="media/file8.jpg" media-type="image/jpeg" />
+    <item id="file7_jpg" href="media/file7.jpg" media-type="image/jpeg" />
+    <item id="file6_jpg" href="media/file6.jpg" media-type="image/jpeg" />
+    <item id="file5_jpg" href="media/file5.jpg" media-type="image/jpeg" />
+    <item id="file4_jpg" href="media/file4.jpg" media-type="image/jpeg" />
+    <item id="file3_jpg" href="media/file3.jpg" media-type="image/jpeg" />
+    <item id="file2_jpg" href="media/file2.jpg" media-type="image/jpeg" />
+    <item id="file1_jpg" href="media/file1.jpg" media-type="image/jpeg" />
+    <item id="file0_jpg" href="media/file0.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="cover_xhtml" />
+    <itemref idref="title_page_xhtml" linear="yes" />
+    <itemref idref="nav" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+    <itemref idref="ch013_xhtml" />
+    <itemref idref="ch014_xhtml" />
+    <itemref idref="ch015_xhtml" />
+    <itemref idref="ch016_xhtml" />
+    <itemref idref="ch017_xhtml" />
+    <itemref idref="ch018_xhtml" />
+    <itemref idref="ch019_xhtml" />
+    <itemref idref="ch020_xhtml" />
+    <itemref idref="ch021_xhtml" />
+    <itemref idref="ch022_xhtml" />
+    <itemref idref="ch023_xhtml" />
+    <itemref idref="ch024_xhtml" />
+    <itemref idref="ch025_xhtml" />
+    <itemref idref="ch026_xhtml" />
+    <itemref idref="ch027_xhtml" />
+    <itemref idref="ch028_xhtml" />
+    <itemref idref="ch029_xhtml" />
+    <itemref idref="ch030_xhtml" />
+    <itemref idref="ch031_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Lord El-Melloi II’s Case Files ~ (02) case. Twin Towers of Izelma (Upper)" href="nav.xhtml" />
+    <reference type="cover" title="Cover" href="text/cover.xhtml" />
+  </guide>
+</package>

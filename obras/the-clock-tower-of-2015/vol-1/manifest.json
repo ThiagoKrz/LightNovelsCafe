@@ -1,0 +1,118 @@
+{
+  "pathBase": "volume",
+  "obra": "the-clock-tower-of-2015",
+  "volume": 1,
+  "title": "The Clock Tower of 2015",
+  "author": "Kinoko Nasu",
+  "language": "it",
+  "publisher": "",
+  "releaseDate": "0101-01-01T00:00:00+00:00",
+  "pageProgressionDirection": "",
+  "sourceEpub": "../../../originais/the-clock-tower-of-2015/vol-1.epub",
+  "sourceEpubOriginal": "src\\assets\\Kinoko Nasu\\the-clock-tower-of-2015\\The Clock Tower of 2015.epub",
+  "packageRoot": "package",
+  "packageOpfPath": "package/content.opf",
+  "buildRoot": "build",
+  "translation": {
+    "originalHtmlRoot": "translation/original-html",
+    "translatedHtmlRoot": "translation/translated-html",
+    "plainTextRoot": "translation/plaintext"
+  },
+  "assets": {
+    "imageCount": 2,
+    "cssFiles": [
+      "package/page_styles.css",
+      "package/stylesheet.css"
+    ]
+  },
+  "spine": [
+    {
+      "order": 1,
+      "idref": "titlepage",
+      "href": "titlepage.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/titlepage.xhtml",
+      "translationOriginalPath": "translation/original-html/001-titlepage.xhtml",
+      "translationWorkingPath": "translation/translated-html/001-titlepage.xhtml",
+      "plainTextPath": "translation/plaintext/001-titlepage.txt",
+      "plainTextLength": 5
+    },
+    {
+      "order": 2,
+      "idref": "id17",
+      "href": "index_split_000.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_000.html",
+      "translationOriginalPath": "translation/original-html/002-index_split_000.html",
+      "translationWorkingPath": "translation/translated-html/002-index_split_000.html",
+      "plainTextPath": "translation/plaintext/002-index_split_000.txt",
+      "plainTextLength": 537
+    },
+    {
+      "order": 3,
+      "idref": "id16",
+      "href": "index_split_001.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_001.html",
+      "translationOriginalPath": "translation/original-html/003-index_split_001.html",
+      "translationWorkingPath": "translation/translated-html/003-index_split_001.html",
+      "plainTextPath": "translation/plaintext/003-index_split_001.txt",
+      "plainTextLength": 863
+    },
+    {
+      "order": 4,
+      "idref": "id15",
+      "href": "index_split_002.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_002.html",
+      "translationOriginalPath": "translation/original-html/004-index_split_002.html",
+      "translationWorkingPath": "translation/translated-html/004-index_split_002.html",
+      "plainTextPath": "translation/plaintext/004-index_split_002.txt",
+      "plainTextLength": 4197
+    },
+    {
+      "order": 5,
+      "idref": "id14",
+      "href": "index_split_003.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_003.html",
+      "translationOriginalPath": "translation/original-html/005-index_split_003.html",
+      "translationWorkingPath": "translation/translated-html/005-index_split_003.html",
+      "plainTextPath": "translation/plaintext/005-index_split_003.txt",
+      "plainTextLength": 16214
+    },
+    {
+      "order": 6,
+      "idref": "id13",
+      "href": "index_split_004.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_004.html",
+      "translationOriginalPath": "translation/original-html/006-index_split_004.html",
+      "translationWorkingPath": "translation/translated-html/006-index_split_004.html",
+      "plainTextPath": "translation/plaintext/006-index_split_004.txt",
+      "plainTextLength": 4985
+    },
+    {
+      "order": 7,
+      "idref": "id12",
+      "href": "index_split_005.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_005.html",
+      "translationOriginalPath": "translation/original-html/007-index_split_005.html",
+      "translationWorkingPath": "translation/translated-html/007-index_split_005.html",
+      "plainTextPath": "translation/plaintext/007-index_split_005.txt",
+      "plainTextLength": 24445
+    },
+    {
+      "order": 8,
+      "idref": "id11",
+      "href": "index_split_006.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/index_split_006.html",
+      "translationOriginalPath": "translation/original-html/008-index_split_006.html",
+      "translationWorkingPath": "translation/translated-html/008-index_split_006.html",
+      "plainTextPath": "translation/plaintext/008-index_split_006.txt",
+      "plainTextLength": 10225
+    }
+  ]
+}

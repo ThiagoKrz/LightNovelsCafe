@@ -1,0 +1,23 @@
+# Relatórios temporários de revisão visual
+_revisao/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Builds intermediários locais (o EPUB final publicado fica em publicados/)
+obras/**/build/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo

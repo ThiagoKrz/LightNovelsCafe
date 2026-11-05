@@ -1,0 +1,43 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>The Clock Tower of 2015</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Nasu, Kinoko">Kinoko Nasu</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a672a56b-a734-4387-a36e-a545d02aa0bf</dc:identifier>
+    <dc:date>2015-08-10T00:00:00+00:00</dc:date>
+    <dc:language>pt-BR</dc:language>
+    <dc:identifier opf:scheme="calibre">a672a56b-a734-4387-a36e-a545d02aa0bf</dc:identifier>
+    <meta name="calibre:timestamp" content="2025-12-26T04:56:58.825370+00:00"/>
+    <meta name="calibre:title_sort" content="The Clock Tower of 2015"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id17" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="id2" href="index-1_1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="titlepage"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

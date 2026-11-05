@@ -1,0 +1,263 @@
+{
+  "pathBase": "volume",
+  "obra": "fate-strange-fake",
+  "volume": 1,
+  "title": "Fate/Strange Fake Vol. 1",
+  "author": "Ryogo Narita",
+  "language": "en",
+  "publisher": "TYPE-MOON",
+  "releaseDate": "",
+  "pageProgressionDirection": "ltr",
+  "sourceEpub": null,
+  "sourceEpubOriginal": "novel-workbench\\Ryogo Narita\\Fate／Strange Fake\\Fate Strange Fake - Vol.1.pdf",
+  "packageRoot": "package",
+  "buildRoot": "build",
+  "translation": {
+    "originalHtmlRoot": "translation/original-html",
+    "translatedHtmlRoot": "translation/translated-html",
+    "plainTextRoot": "translation/plaintext"
+  },
+  "assets": {
+    "imageCount": 20,
+    "cssFiles": [
+      "package/page_styles.css",
+      "package/stylesheet.css"
+    ],
+    "illustrationPages": [
+      34,
+      40,
+      59,
+      70,
+      75,
+      86,
+      98,
+      110,
+      169,
+      172,
+      173
+    ],
+    "illustrationFiles": [
+      "package/images/illust-002.png",
+      "package/images/illust-003.png",
+      "package/images/illust-004.png",
+      "package/images/illust-005.png",
+      "package/images/illust-007.png",
+      "package/images/illust-008.png",
+      "package/images/illust-009.png",
+      "package/images/illust-021.png",
+      "package/images/illust-034.png",
+      "package/images/illust-040.png",
+      "package/images/illust-059.png",
+      "package/images/illust-070.png",
+      "package/images/illust-075.png",
+      "package/images/illust-086.png",
+      "package/images/illust-098.png",
+      "package/images/illust-110.png",
+      "package/images/illust-169.png",
+      "package/images/illust-172.png",
+      "package/images/illust-173.png"
+    ],
+    "titlepageVisualPages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "fixedVisualInsertions": {
+      "text/part0000.html": [
+        7,
+        8
+      ],
+      "text/part0001.html": [
+        9
+      ],
+      "text/part0002.html": [
+        21
+      ]
+    }
+  },
+  "spine": [
+    {
+      "order": 1,
+      "idref": "titlepage",
+      "href": "titlepage.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/titlepage.xhtml",
+      "translationOriginalPath": "translation/original-html/001-titlepage.xhtml",
+      "translationWorkingPath": "translation/translated-html/001-titlepage.xhtml",
+      "plainTextPath": "translation/plaintext/001-titlepage.txt",
+      "plainTextLength": 312
+    },
+    {
+      "idref": "front-0002",
+      "href": "front-0002.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0002.xhtml",
+      "order": 2
+    },
+    {
+      "idref": "front-0003",
+      "href": "front-0003.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0003.xhtml",
+      "order": 3
+    },
+    {
+      "idref": "front-0004",
+      "href": "front-0004.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0004.xhtml",
+      "order": 4
+    },
+    {
+      "idref": "front-0005",
+      "href": "front-0005.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/front-0005.xhtml",
+      "order": 5
+    },
+    {
+      "order": 6,
+      "idref": "part0000",
+      "href": "text/part0000.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0000.html",
+      "translationOriginalPath": "translation/original-html/002-part0000.html",
+      "translationWorkingPath": "translation/translated-html/002-part0000.html",
+      "plainTextPath": "translation/plaintext/002-part0000.txt",
+      "plainTextLength": 589
+    },
+    {
+      "order": 7,
+      "idref": "part0001",
+      "href": "text/part0001.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0001.html",
+      "translationOriginalPath": "translation/original-html/003-part0001.html",
+      "translationWorkingPath": "translation/translated-html/003-part0001.html",
+      "plainTextPath": "translation/plaintext/003-part0001.txt",
+      "plainTextLength": 24944
+    },
+    {
+      "order": 8,
+      "idref": "part0002",
+      "href": "text/part0002.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0002.html",
+      "translationOriginalPath": "translation/original-html/004-part0002.html",
+      "translationWorkingPath": "translation/translated-html/004-part0002.html",
+      "plainTextPath": "translation/plaintext/004-part0002.txt",
+      "plainTextLength": 27621
+    },
+    {
+      "order": 9,
+      "idref": "part0003",
+      "href": "text/part0003.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0003.html",
+      "translationOriginalPath": "translation/original-html/005-part0003.html",
+      "translationWorkingPath": "translation/translated-html/005-part0003.html",
+      "plainTextPath": "translation/plaintext/005-part0003.txt",
+      "plainTextLength": 35024
+    },
+    {
+      "order": 10,
+      "idref": "part0004",
+      "href": "text/part0004.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0004.html",
+      "translationOriginalPath": "translation/original-html/006-part0004.html",
+      "translationWorkingPath": "translation/translated-html/006-part0004.html",
+      "plainTextPath": "translation/plaintext/006-part0004.txt",
+      "plainTextLength": 20006
+    },
+    {
+      "order": 11,
+      "idref": "part0005",
+      "href": "text/part0005.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0005.html",
+      "translationOriginalPath": "translation/original-html/007-part0005.html",
+      "translationWorkingPath": "translation/translated-html/007-part0005.html",
+      "plainTextPath": "translation/plaintext/007-part0005.txt",
+      "plainTextLength": 18376
+    },
+    {
+      "order": 12,
+      "idref": "part0006",
+      "href": "text/part0006.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0006.html",
+      "translationOriginalPath": "translation/original-html/008-part0006.html",
+      "translationWorkingPath": "translation/translated-html/008-part0006.html",
+      "plainTextPath": "translation/plaintext/008-part0006.txt",
+      "plainTextLength": 23173
+    },
+    {
+      "order": 13,
+      "idref": "part0007",
+      "href": "text/part0007.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0007.html",
+      "translationOriginalPath": "translation/original-html/009-part0007.html",
+      "translationWorkingPath": "translation/translated-html/009-part0007.html",
+      "plainTextPath": "translation/plaintext/009-part0007.txt",
+      "plainTextLength": 25498
+    },
+    {
+      "order": 14,
+      "idref": "part0008",
+      "href": "text/part0008.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0008.html",
+      "translationOriginalPath": "translation/original-html/010-part0008.html",
+      "translationWorkingPath": "translation/translated-html/010-part0008.html",
+      "plainTextPath": "translation/plaintext/010-part0008.txt",
+      "plainTextLength": 7954
+    },
+    {
+      "order": 15,
+      "idref": "part0009",
+      "href": "text/part0009.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0009.html",
+      "translationOriginalPath": "translation/original-html/011-part0009.html",
+      "translationWorkingPath": "translation/translated-html/011-part0009.html",
+      "plainTextPath": "translation/plaintext/011-part0009.txt",
+      "plainTextLength": 48492
+    },
+    {
+      "order": 16,
+      "idref": "part0010",
+      "href": "text/part0010.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0010.html",
+      "translationOriginalPath": "translation/original-html/012-part0010.html",
+      "translationWorkingPath": "translation/translated-html/012-part0010.html",
+      "plainTextPath": "translation/plaintext/012-part0010.txt",
+      "plainTextLength": 52291
+    },
+    {
+      "order": 17,
+      "idref": "part0011",
+      "href": "text/part0011.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0011.html",
+      "translationOriginalPath": "translation/original-html/013-part0011.html",
+      "translationWorkingPath": "translation/translated-html/013-part0011.html",
+      "plainTextPath": "translation/plaintext/013-part0011.txt",
+      "plainTextLength": 5570
+    },
+    {
+      "order": 18,
+      "idref": "part0012",
+      "href": "text/part0012.html",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/text/part0012.html",
+      "translationOriginalPath": "translation/original-html/014-part0012.html",
+      "translationWorkingPath": "translation/translated-html/014-part0012.html",
+      "plainTextPath": "translation/plaintext/014-part0012.txt",
+      "plainTextLength": 8191
+    }
+  ]
+}

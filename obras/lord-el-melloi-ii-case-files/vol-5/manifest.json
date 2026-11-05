@@ -1,0 +1,38 @@
+{
+  "pathBase": "volume",
+  "obra": "lord-el-melloi-ii-case-files",
+  "volume": 5,
+  "title": "Lord El-Melloi II's Case Files Vol. 5 - Mystic Eyes Collection Train (Lower) Translated",
+  "author": "",
+  "language": "en",
+  "publisher": "",
+  "releaseDate": "",
+  "pageProgressionDirection": "",
+  "sourceEpub": "../../../originais/lord-el-melloi-ii-case-files/vol-5.epub",
+  "sourceEpubOriginal": "novels_raw\\Lord El-Melloi II's Case Files\\Lord El-Melloi II's Case Files ~ (05) case. Mystic Eyes collection train (Lower) [f8594d24].epub",
+  "packageRoot": "package",
+  "packageOpfPath": "package/GoogleDoc/package.opf",
+  "buildRoot": "build",
+  "translation": {
+    "originalHtmlRoot": "translation/original-html",
+    "translatedHtmlRoot": "translation/translated-html",
+    "plainTextRoot": "translation/plaintext"
+  },
+  "assets": {
+    "imageCount": 17,
+    "cssFiles": []
+  },
+  "spine": [
+    {
+      "order": 1,
+      "idref": "main",
+      "href": "LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.xhtml",
+      "mediaType": "application/xhtml+xml",
+      "packagePath": "package/GoogleDoc/LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.xhtml",
+      "translationOriginalPath": "translation/original-html/001-LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.xhtml",
+      "translationWorkingPath": "translation/translated-html/001-LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.xhtml",
+      "plainTextPath": "translation/plaintext/001-LordElMelloiIIsCaseFilesVol.5MysticEyesCollectionTrain(Lower)Translated.txt",
+      "plainTextLength": 404174
+    }
+  ]
+}

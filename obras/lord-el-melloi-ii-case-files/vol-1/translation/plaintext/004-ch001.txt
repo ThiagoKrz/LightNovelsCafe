@@ -1,0 +1,25 @@
+ch001.xhtml
+
+Disclaimers & Copyright
+
+Lord El-Melloi II’s Case Files ~ (01) case. Adra Castle Separation
+
+Original Release Date: 2014-12-28
+
+Author: Makoto Sanda (三田 誠)
+
+Illustrator: Mineji Sakamoto (坂本みねぢ)
+
+Original Publisher: TYPE-MOON BOOKS
+
+Fan Translation Notice
+
+This is a non-profit, volunteer fan translation. This is not an official release and is intended for archival and personal use only. This document is not for sale.
+
+Translator: TwilightsCall of Beast’s Lair
+
+Editor & Compiler: Ardor of Beast’s Lair
+
+This eBook is an independent edition produced by the compiler that aims to be of high quality and enjoyable on as many reading devices as possible. Minor modifications to the translation’s prose and grammar were made to improve narrative flow. British English conventions have been utilized to reflect the story’s setting. The original translator was not involved in the creation of this specific version, nor in the editorial changes made to the prose. Any errors in the formatting or modifications of the text are the sole responsibility of the compiler.
+
+Prepared using Pandoc. Build Date: 2026-02-01

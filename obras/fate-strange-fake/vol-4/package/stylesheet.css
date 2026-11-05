@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  color: #111;
+  background: #fdfaf2;
+}
+
+.titlepage,
+.chapter-page {
+  padding: 0;
+}
+
+.titlepage-shell,
+.chapter-shell {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 3rem;
+}
+
+.titlepage-cover {
+  width: 100%;
+  display: block;
+  margin: 0 auto 1.5rem;
+  border-radius: 0.25rem;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 0 0 1rem;
+}
+
+h1 {
+  font-size: 1.7rem;
+}
+
+h2 {
+  font-size: 1.1rem;
+  font-weight: normal;
+}
+
+.titlepage-author,
+.titlepage-credit {
+  text-align: center;
+  margin: 0.35rem 0;
+}
+
+p {
+  margin: 0 0 1rem;
+  text-indent: 1.4rem;
+}
+
+.toc-list {
+  padding-left: 1.25rem;
+  margin: 0 0 2rem;
+}
+
+.toc-list li {
+  margin: 0 0 0.65rem;
+}
+
+.toc-list a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.toc-subtitle {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+.epigraph {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #d8cfbf;
+}
+
+.epigraph-line {
+  text-align: center;
+  text-indent: 0;
+  margin: 0.2rem 0;
+  font-style: italic;
+}
+
+.scene-break {
+  width: 4rem;
+  margin: 1.8rem auto;
+  border: 0;
+  border-top: 1px solid #8d8374;
+}
+
+/* Preserved PDF illustrations */
+.illustration-block {
+  margin: 0 auto;
+  text-indent: 0;
+  page-break-inside: avoid;
+  page-break-before: always;
+  page-break-after: always;
+  break-before: page;
+  break-after: page;
+}
+
+.illustration-block img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.titlepage-cover {
+  page-break-after: always;
+  break-after: page;
+  margin-bottom: 0;
+}

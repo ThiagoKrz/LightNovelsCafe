@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt-BR">
+  <head>
+    <meta name="dtb:uid" content="e9e97c45-9736-4daa-8667-547a0180ed5e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.6.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Fate/Apocrypha Vol. 5</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>Sumário</text>
+      </navLabel>
+      <content src="text/part0011.html#AFM60-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Prólogo</text>
+      </navLabel>
+      <content src="text/part0013.html#CCNA0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Capítulo 1</text>
+      </navLabel>
+      <content src="text/part0016.html#F8900-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Capítulo 2</text>
+      </navLabel>
+      <content src="text/part0020.html#J2B80-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Capítulo 3</text>
+      </navLabel>
+      <content src="text/part0022.html#KVCC0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Capítulo 4</text>
+      </navLabel>
+      <content src="text/part0026.html#OPEK0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Epílogo</text>
+      </navLabel>
+      <content src="text/part0038.html#147LC0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Apocrypha</text>
+      </navLabel>
+      <content src="text/part0040.html#164MG0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="8" class="chapter">
+      <navLabel>
+        <text>Posfácio</text>
+      </navLabel>
+      <content src="text/part0043.html#190860-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Créditos</text>
+      </navLabel>
+      <content src="text/part0044.html#19UOO0-23d67a9149da400bb8880b9ff90f845b"/>
+    </navPoint>
+  </navMap>
+</ncx>

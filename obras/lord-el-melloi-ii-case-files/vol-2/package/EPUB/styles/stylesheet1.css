@@ -1,0 +1,70 @@
+.scene-break {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.scene-break::before {
+    content: "∗ ∗ ∗";
+    display: block;
+    /* Optional: style the stars */
+    letter-spacing: 0.5em;
+}
+
+.centered-important {
+    display: block;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* modern e-readers will still see footnotes as part of annotations next to their appropriate note location. thus the footer <hr> becomes confusing and useless */
+/* section.footnotes {
+    display: none;
+} */
+
+/* 1. HIDE THE HEADER TEXT */
+h1.illustration, h2.illustration {
+    display: none;
+}
+
+/* 2. THE CONTAINER */
+/* Pandoc wraps these in <section> or <div class="illustration"> */
+section.illustration, div.illustration {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center; /* Vertical center */
+    align-items: center;     /* Horizontal center */
+    page-break-after: always;
+}
+
+/* 3. FIX FOR PANDOC WRAPPERS */
+/* Pandoc often puts the image inside a <p>. We need the <p> to not 
+   interfere with the flex centering */
+.illustration p {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 4. THE IMAGE */
+.illustration img {
+    /* Critical: 'max' instead of fixed width prevents compression */
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    /* Block ensures no 'descender' gap at the bottom */
+    display: block;
+}
+
+ruby {
+    ruby-align: center;
+}
