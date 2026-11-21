@@ -41,6 +41,6 @@ Páginas só com imagem não aparecem na lista.
 - [ ] `035-ch032.xhtml` · revisor: · obs:
 - [ ] `036-ch033.xhtml` · revisor: · obs:
 - [ ] `037-ch034.xhtml` · revisor: · obs:
-- [ ] `038-ch035.xhtml` · revisor: · obs:
+- [x] `038-ch035.xhtml` · revisor: PH · obs:
 - [ ] `039-ch036.xhtml` · revisor: · obs:
 - [ ] `040-ch037.xhtml` · revisor: · obs:
